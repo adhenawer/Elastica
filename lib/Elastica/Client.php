@@ -10,7 +10,7 @@ use Elastica\Exception\ConnectionException;
 use Elastica\Exception\InvalidException;
 
 /**
- * Client to connect the the elasticsearch server
+ * Client to connect the the elasticsearch server //teste merge
  *
  * @category Xodoa
  * @package Elastica
