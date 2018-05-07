@@ -1,3 +1,5 @@
+Minhas constribuições: https://github.com/adhenawer/Elastica/commits?author=adhenawer
+
 Elastica: elasticsearch PHP Client
 ==================================
 [![Build Status](https://secure.travis-ci.org/ruflin/Elastica.png?branch=master)](http://travis-ci.org/ruflin/Elastica)
